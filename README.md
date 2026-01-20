@@ -1,6 +1,6 @@
 
-**eitsocorporations/eitsocorporations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 💫 About Me:
+
+# 💫 About EITSO:
 EITSO CORPORATION is a forward-thinking technology company specializing in Web3 solutions, blockchain development, and digital innovation. 💡<br><br>We build:<br><br>Next-Gen Investment & Finance Platforms<br><br>Seamless Payment & Blockchain Integrations<br><br>User-Centric Web & Mobile Applications<br><br>Our mission is to leverage cutting-edge technology to solve real-world problems, enabling businesses and communities to thrive in the digital era.<br><br>We collaborate, innovate, and deliver with precision, efficiency, and creativity.<br><br>📫 Reach us here on GitHub or through our official communication channels.
 
 
